@@ -6,8 +6,17 @@ h2{
 }
 p{
 <<<<<<< HEAD
+<<<<<<< HEAD
     color:seagreen;
 =======
     color:sienna;
 >>>>>>> origin/funcionalidadeA
+=======
+    color:sienna;
+}
+table{
+    background-color: sienna;
+
+    color:seagreen;
+>>>>>>> 5caf5db07a88009a996d734a0dda02fb1cb5b7df
 }
