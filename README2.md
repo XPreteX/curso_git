@@ -15,3 +15,9 @@ Melhoria 1
 * HTML
 * CSS
 * MYSQL
+
+
+### Funcionalidades a desenvolver:
+1. Area de membros
+2. Integração com pagamentos
+3. Sistema de bônus
