@@ -6,3 +6,5 @@ Checkout, tela de produto, catalogo, banner
 
 ###### Melhorias do projeto
 Melhoria 1 
+
+***Melhoria***
