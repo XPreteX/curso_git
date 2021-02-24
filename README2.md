@@ -19,7 +19,7 @@ Melhoria 1
 
 ### Funcionalidades a desenvolver:
 1. Area de membros
- 1. login diferenciado para clientes
- 2. login para empresas 
+     1. login diferenciado para clientes
+     2. login para empresas 
 2. Integração com pagamentos
 3. Sistema de bônus
