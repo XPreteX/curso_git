@@ -10,3 +10,8 @@ Melhoria 1
 ***Melhoria***
 
 **Melhoria *do site e-commerce***
+
+### Linguagens do projeto 
+* HTML
+* CSS
+* MYSQL
