@@ -8,3 +8,5 @@ Checkout, tela de produto, catalogo, banner
 Melhoria 1 
 
 ***Melhoria***
+
+**Melhoria *do site e-commerce***
